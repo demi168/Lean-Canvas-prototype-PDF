@@ -1,5 +1,7 @@
 Lean-Canvas-prototype-PDF
 =========================
+10/01/2013 ver3.0 released.
+
 08/01/2013 ver2.1 released.
 
 04/01/2013 ver2.0 released.
